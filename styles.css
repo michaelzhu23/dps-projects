@@ -1,6 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
 .hero {
   background-image: linear-gradient( rgba(79, 79, 79, 0.3), rgba(79, 79, 79, 0.3)),url(images/hero-image2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 750px;
+}
+
+.hero-about {
+  width: 70%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 6vw;
+}
+
+.view-work {
+  width: 200px;
+  padding: 15px;
+  background-color: #292929;
+  color: white;
+}
+
+.logo {
+  width: min-content;
+}
+
+.hero p, a {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  font-size: 130%;
 }
