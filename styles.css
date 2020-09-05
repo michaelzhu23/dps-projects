@@ -52,10 +52,6 @@
   display: flex;
 }
 
-.service-items img {
-  width: 50px;
-}
-
 .service-items h3 {
   margin-left: 15px;
 }
