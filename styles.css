@@ -60,7 +60,7 @@ body {
 }
 
 .quote-section {
-  padding: 30px;
+  padding: 40px;
 }
 
 .quote-section-container {
@@ -84,4 +84,11 @@ body {
 
 button:hover {
   cursor: pointer;
+}
+
+.info-section {
+  background-image: url(images/storefront.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 830px;
 }
