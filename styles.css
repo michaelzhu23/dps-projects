@@ -92,3 +92,14 @@ button:hover {
   background-size: cover;
   height: 830px;
 }
+
+.info-section {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.info-text-top {
+  height: 85%;
+  width: 65%;
+  background-color: #f7f7f7;
+}
