@@ -1,2 +1,2 @@
 # dps-projects
-Practice building web page layout with HTML & CSS by cloning http://www.dpsprojects.com.au/
+Practice recreating layout of web page with HTML & CSS by cloning http://www.dpsprojects.com.au/
