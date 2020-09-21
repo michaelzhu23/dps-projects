@@ -101,15 +101,13 @@ button:hover {
   background-repeat: no-repeat;
   background-size: cover;
   height: 830px;
-}
-
-.info-section {
   display: flex;
-  justify-content: flex-end;
+  align-items: flex-end;
+  flex-direction: column;
 }
 
 .info-text-container {
-  height: 85%;
+  height: 80%;
   width: 65%;
   background-color: #f7f7f7;
   display: flex;
@@ -148,4 +146,18 @@ hr {
 
 .info-text-bottom p {
   padding-bottom: 40px;
+}
+
+.info-email-container {
+  height: 20%;
+  width: 65%;
+  background-color: #292929;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info-email-container a {
+  color: white;
 }
